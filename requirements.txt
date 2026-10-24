@@ -1,0 +1,22 @@
+# AquaShield hackathon dependencies
+# Recommended: Python 3.11 or 3.12 on Windows
+
+# App and interactive map
+streamlit
+folium
+streamlit-folium
+
+# Data handling and visualisation
+pandas
+numpy
+matplotlib
+requests
+
+# Geospatial processing
+geopandas
+rasterio
+osmnx
+
+# Machine learning and explainability
+scikit-learn
+shap
