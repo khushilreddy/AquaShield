@@ -1,0 +1,17 @@
+{
+  "n_wells": 39,
+  "n_pos": 10,
+  "top20_recall": 0.4,
+  "random": 0.2,
+  "auc": 0.7379310344827587,
+  "features": [
+    "elev",
+    "twi",
+    "slope",
+    "d_flood_km",
+    "d_waterway_km",
+    "d_industry_km",
+    "d_wastewater_km",
+    "rain_mm"
+  ]
+}
